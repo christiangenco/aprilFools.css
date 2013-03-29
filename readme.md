@@ -52,6 +52,6 @@ Ubuntu (Chromium): `~/.config/chromium/Default/User StyleSheets/Custom.css`
 
 ## aprilFools.js
 
-[aprilFools.js](blob/master/aprilFools.js) is a script to dynamically load `aprilFools.css` *on or after* April Fools day 2013.
+[aprilFools.js](aprilFools.js) is a script to dynamically load `aprilFools.css` *on or after* April Fools day 2013.
 
-You'll need to install [dotjs](https://github.com/defunkt/dotjs) to get this to work (there's no good javascript analog to `Custom.css`, thankfully). Then copy over the contents of [aprilFools.js](blob/master/aprilFools.js) into it. Be sure to change the `cssURL` to a customized URL with enabled features.
+You'll need to install [dotjs](https://github.com/defunkt/dotjs) to get this to work (there's no good javascript analog to `Custom.css`, thankfully). Then copy over the contents of [aprilFools.js](aprilFools.js) into it. Be sure to change the `cssURL` to a customized URL with enabled features.
